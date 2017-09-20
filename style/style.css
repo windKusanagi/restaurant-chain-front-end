@@ -1,0 +1,30 @@
+.list-group-item {
+    cursor: pointer
+}
+.list-group-item:hover {
+    background-color: #eee
+}
+
+svg {
+    height: 300px;
+}
+
+.navbar-nomargin {
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+
+th, td {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group {
+    margin: 20px;
+}
+
+td:first-of-type, td:first-of-type>div{
+    height: 350px;
+    width: 350px;
+} 
