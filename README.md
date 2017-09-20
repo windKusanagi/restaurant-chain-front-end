@@ -7,8 +7,8 @@
 ## Getting started
 
 ```
-> git clone https://github.com/windKusanagi/restaurant-chain-back-end.git
-> cd restaurant-chain-back-end
+> git clone https://github.com/windKusanagi/restaurant-chain-front-end.git
+> cd restaurant-chain-front-end
 > npm install
 > npm start
 ```
